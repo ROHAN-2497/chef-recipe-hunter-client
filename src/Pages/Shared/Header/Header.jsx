@@ -1,5 +1,6 @@
 
 const Header = () => {
+    
     return (
         <div className="navbar bg-slate-50 bg-base-100">
         <div className="navbar-start">
